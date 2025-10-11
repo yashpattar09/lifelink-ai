@@ -1,0 +1,15 @@
+# Make sure you're in your project directory
+cd /path/to/lifelink-ai
+
+# Create/update requirements.txt
+echo "streamlit==1.29.0
+google-generativeai==0.3.2
+pdfplumber==0.10.3
+Pillow==10.0.0" > requirements.txt
+
+# Add and commit
+git add requirements.txt
+git commit -m "Add requirements.txt with all dependencies"
+
+# Push to GitHub
+git push origin main
