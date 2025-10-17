@@ -1,8 +1,6 @@
-streamlit==1.31.0
-google-generativeai==0.3.2
-pdfplumber==0.10.3
-reportlab==4.0.7
-gTTS==2.5.0
-Pillow==10.2.0
-pdfminer.six==20221105
-cryptography==41.0.7
+streamlit>=1.28.0
+google-generativeai>=0.3.0
+pdfplumber>=0.10.0
+reportlab>=4.0.0
+gTTS>=2.3.0
+Pillow>=10.0.0
