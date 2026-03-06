@@ -22,7 +22,7 @@ from datetime import datetime
 # ========================================
 
 # Insert your Gemini API key here
-GEMINI_API_KEY = "AIzaSyBstxIERnb3Ru7iwbxDEDqYZ1UojwachSA"
+GEMINI_API_KEY = "AIzaSyCONglU8cZVd18nXLMbPu4UCSEm9JTQvkk"
 
 # Configure Gemini API
 try:
@@ -424,6 +424,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
